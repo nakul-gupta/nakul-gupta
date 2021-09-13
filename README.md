@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nakul-gupta
-- 👀 I’m interested in DeFi, Web3, NFTs, Social Tokens, Token Engineering and Decentralization!
-- 🌱 I’m currently learning robotics and autonomous sytems at USC (grad school), with hopes of applying methodologies from these fields into the 
-      design of robust tokenomic systems
-- 💞️ I’m looking to collaborate on any decentralization/web3/NFT project, especially in the music/Djing/electronic music production space
+- 👀 I’m interested in autonomous systems! Self-driving cars, robots, evtols, drones, UAVs - if it moves and controls itself, I wanna work it1
+- 🌱 I’m currently learning robotics and cyber-physical sytems at USC for grad school
 - 📫 How to reach me @nakulgup (twitter) or nakulgup@usc.edu
 
 <!---
