@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nakul-gupta
-- 👀 I’m interested in back-end development and machine learning softare systems! I want to grow my skills and build the applications of the future :)
-- Currently @ USC for grad school in CS
-- 📫 How to reach me: nakulgup@usc.edu
+- 👀 I’m interested in generative AI & LLMs! I want to grow my skills and build the applications of the future :)
+- Currently @ Aiva Health in LA
+- 📫 How to reach me: nakulg333@gmail.com
 
 <!---
 nakul-gupta/nakul-gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
