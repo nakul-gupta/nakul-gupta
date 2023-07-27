@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @nakul-gupta
-- 👀 I’m interested in generative AI & LLMs! I want to grow my skills and build the applications of the future :)
-- Currently @ Aiva Health in LA
+- Background: BS in Physics from UCLA, MS in CS from USC
+- Professional experience in cloud web application development (Currently @ Aiva Health in LA)
+- 👀 I’m interested in simulation, modeling, guidance, navigation & control, with a focus on astrodynamics, mission planning, satellite navigation, and aerodynamics
+- 🚀 Currently studying @ CU Boulder for a professional graduate certificate in Satellite Navigation & Astrodynamics
 - 📫 How to reach me: nakulg333@gmail.com
 
 <!---
